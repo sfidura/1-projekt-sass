@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sfidura/1-projekt-sass#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
   }
 }
